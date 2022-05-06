@@ -1,10 +1,6 @@
 # EDI-Products
 
-A catalog of EDI products hosted here on GitHub and embedded in the EDI website with an `<iframe>`.
-
-[View the catalog on GitHub](https://ediorg.github.io/EDI-products/complete.html)
-
-[View the catalog on the EDI website](https://edirepository.org/about/edi-products)
+A catalog of EDI products hosted here on [GitHub](https://ediorg.github.io/EDI-products/complete.html) and embedded in the [EDI website](https://edirepository.org/about/edi-products).
 
 _EDI-products is based on the [Zotero-JavaScript-Search-Client](https://github.com/BLE-LTER/Zotero-JavaScript-Search-Client) developed by Tim Whiteaker for the Long-Term Ecological Research Network (LTER)._
 
