@@ -6,9 +6,7 @@ A catalog of EDI products hosted here on GitHub and embedded in the EDI website 
 
 [View the catalog on the EDI website](https://edirepository.org/about/edi-products)
 
-## Attribution
-
-This catalog was created using Tim Whiteaker's [Zotero-JavaScript-Search-Client](https://github.com/BLE-LTER/Zotero-JavaScript-Search-Client). Thanks Tim!
+_EDI-products is based on the [Zotero-JavaScript-Search-Client](https://github.com/BLE-LTER/Zotero-JavaScript-Search-Client) developed by Tim Whiteaker for the Long-Term Ecological Research Network (LTER)._
 
 ## Usage
 
